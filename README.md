@@ -1,16 +1,10 @@
 # Amplified Nether
 
-[![Latest Version](https://img.shields.io/github/v/release/Stardust-Labs-MC/Amplified-Nether?color=blueviolet&logo=github "View latest release")](https://github.com/Stardust-Labs-MC/Amplified-Nether/releases)
-[![Discord Badge](https://img.shields.io/discord/738046951236567162?color=blue&logo=discord "Join our Discord Server")](https://discord.gg/stardustlabs)
-[![Modrinth Badge](https://img.shields.io/modrinth/dt/amplified-nether?label=Modrinth&logo=modrinth "View our Modrinth page")](https://modrinth.com/mod/amplified-nether)
-[![License Badge](https://img.shields.io/badge/license-Stardust_Labs-green "View the Stardust Labs License")](https://github.com/Stardust-Labs-MC/license)
-[![Wiki Badge](https://img.shields.io/badge/wiki-Miraheze-yellow "View our Wiki")](https://discord.gg/stardustlabs)
-[![Issues Badge](https://img.shields.io/github/issues/Stardust-Labs-MC/Amplified-Nether?color=orange&logo=github "View or open an issue")](https://github.com/Stardust-Labs-MC/Amplified-Nether/issues)
-[![Weblate Badge](https://img.shields.io/weblate/progress/stardust-labs?server=https%3A%2F%2Fweblate.catter.dev&logo=weblate "Translate here")](https://weblate.catter.dev/projects/stardust-labs)
+[![Latest Version](https://img.shields.io/github/v/release/Stardust-Labs-MC/Amplified-Nether?color=blueviolet&logo=github "View latest release")](https://github.com/Stardust-Labs-MC/Amplified-Nether/releases) [![Discord Badge](https://img.shields.io/discord/738046951236567162?color=blue&logo=discord "Join our Discord Server")](https://discord.gg/stardustlabs) [![Modrinth Badge](https://img.shields.io/modrinth/dt/amplified-nether?label=Modrinth&logo=modrinth "View our Modrinth page")](https://modrinth.com/mod/amplified-nether) [![License Badge](https://img.shields.io/badge/license-Stardust_Labs-green "View the Stardust Labs License")](https://github.com/Stardust-Labs-MC/license) [![Wiki Badge](https://img.shields.io/badge/wiki-Miraheze-yellow "View our Wiki")](https://discord.gg/stardustlabs) [![Issues Badge](https://img.shields.io/github/issues/Stardust-Labs-MC/Amplified-Nether?color=orange&logo=github "View or open an issue")](https://github.com/Stardust-Labs-MC/Amplified-Nether/issues) [![Weblate Badge](https://img.shields.io/weblate/progress/stardust-labs?server=https%3A%2F%2Fweblate.catter.dev&logo=weblate "Translate here")](https://weblate.catter.dev/projects/stardust-labs)
 
 Amplified Nether increases the Nether height to 256 blocks tall, truly ushering in the "Amplified" feel.
 
-![amplified_banner_squashed](https://user-images.githubusercontent.com/63272345/224792461-c17f1ccd-61b3-49b9-8d6a-86c0f918e651.png)
+![Amplified Nether Banner](https://user-images.githubusercontent.com/63272345/224792461-c17f1ccd-61b3-49b9-8d6a-86c0f918e651.png)
 
 ## Notes
 - Amplified Nether is **not** compatable with Incendium, but often compatable with other nether mods, such as Better Nether
