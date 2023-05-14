@@ -1,0 +1,16 @@
+{
+	"feature": "minecraft:basalt_pillar_base",
+	"placement": [
+		{
+			"type": "minecraft:count_on_every_layer",
+			"count": 5
+		},
+		{
+			"type": "minecraft:rarity_filter",
+			"chance": 30
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

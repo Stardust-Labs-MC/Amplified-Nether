@@ -1,0 +1,20 @@
+{
+	"feature": "minecraft:patch_crimson_roots",
+	"placement": [
+		{
+			"type": "minecraft:height_range",
+			"height": {
+				"type": "minecraft:uniform",
+				"min_inclusive": {
+					"absolute": 0
+				},
+				"max_inclusive": {
+					"absolute": 255
+				}
+			}
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

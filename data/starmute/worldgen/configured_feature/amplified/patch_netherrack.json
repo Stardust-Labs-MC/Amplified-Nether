@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.05,
+        "feature": {
+          "feature": {
+            "type": "minecraft:netherrack_replace_blobs",
+            "config": {
+              "state": {
+                "Name": "minecraft:netherrack"
+              },
+              "target": {
+                "Name": "minecraft:warped_nylium"
+              },
+              "radius": 0
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.05,
+        "feature": {
+          "feature": {
+            "type": "minecraft:netherrack_replace_blobs",
+            "config": {
+              "state": {
+                "Name": "minecraft:netherrack"
+              },
+              "target": {
+                "Name": "minecraft:crimson_nylium"
+              },
+              "radius": 0
+            }
+          },
+          "placement": []
+        }
+      }
+    ],
+    "default": {
+      "feature": {
+        "type": "minecraft:no_op",
+        "config": {}
+      },
+      "placement": []
+    }
+  }
+}

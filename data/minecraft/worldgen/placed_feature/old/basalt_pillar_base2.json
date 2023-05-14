@@ -1,0 +1,21 @@
+{
+	"feature": "minecraft:basalt_pillar_base2",
+	"placement": [
+		{
+			"type": "minecraft:count",
+			"count": {
+				"type": "minecraft:weighted_list",
+				"distribution": [
+					{
+						"weight": 0,
+						"data": 128
+					},
+					{
+						"weight": 100,
+						"data": 256
+					}
+				]
+			}
+		}
+	]
+}

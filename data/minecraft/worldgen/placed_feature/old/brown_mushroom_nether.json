@@ -1,0 +1,24 @@
+{
+	"feature": "minecraft:patch_brown_mushroom",
+	"placement": [
+		{
+			"type": "minecraft:rarity_filter",
+			"chance": 2
+		},
+		{
+			"type": "minecraft:height_range",
+			"height": {
+				"type": "minecraft:uniform",
+				"min_inclusive": {
+					"absolute": 0
+				},
+				"max_inclusive": {
+					"absolute": 255
+				}
+			}
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}

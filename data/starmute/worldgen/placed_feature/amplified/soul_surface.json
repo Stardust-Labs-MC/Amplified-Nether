@@ -1,0 +1,26 @@
+{
+	"feature": "starmute:amplified/soul_surface",
+	"placement": [
+		{
+			"type": "minecraft:count",
+			"count": 177
+		},
+		{
+			"type": "minecraft:count",
+			"count": 13
+		},
+		{
+			"type": "minecraft:count_on_every_layer",
+			"count": 1
+		},
+		{
+			"type": "minecraft:noise_based_count",
+			"noise_to_count_ratio": 1,
+			"noise_factor": 32,
+			"noise_offset": -0.05
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}
