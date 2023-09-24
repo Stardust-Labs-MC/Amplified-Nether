@@ -1,6 +1,23 @@
 {
-	"pack": {
-		"pack_format": 15,
-		"description": "Amplified Nether"
-	}
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": [
+            10,
+            18
+        ],
+        "description": [
+            {
+                "text": "Amplified Nether",
+                "color": "#77070c"
+            },
+            {
+                "text": "\nCreated by ",
+                "color": "gray"
+            },
+            {
+                "text": "Stardust Labs",
+                "color": "#683edd"
+            }
+        ]
+    }
 }
